@@ -40,4 +40,6 @@ func main() {
 			fmt.Println("Failed to send response:", err)
 		}
 	}
+
+	fmt.Println("Exiting...")
 }
